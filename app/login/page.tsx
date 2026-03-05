@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { LoginApple } from "../components/LoginApple";
 
 
 export default function Home() {
@@ -6,7 +6,7 @@ export default function Home() {
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       
         <h1>Apple login</h1>
-        <Link href="/login">Login</Link>
+        <LoginApple />
     </div>
   );
 }

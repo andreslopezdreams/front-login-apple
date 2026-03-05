@@ -6,6 +6,7 @@
       "dependencies": {
         "next": "16.1.6",
         "react": "19.2.3",
+        "react-apple-signin-auth": "^1.1.2",
         "react-dom": "19.2.3",
       },
       "devDependencies": {
@@ -706,6 +707,8 @@
     "queue-microtask": ["queue-microtask@1.2.3", "", {}, "sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A=="],
 
     "react": ["react@19.2.3", "", {}, "sha512-Ku/hhYbVjOQnXDZFv2+RibmLFGwFdeeKHFcOTlrt7xplBnya5OGn/hIRDsqDiSUcfORsDC7MPxwork8jBwsIWA=="],
+
+    "react-apple-signin-auth": ["react-apple-signin-auth@1.1.2", "", { "peerDependencies": { "react": ">= 16.8.0", "react-dom": ">= 16.8.0" } }, "sha512-E5bPu4LtNR3IDsd08A/f1Y0HyuHfjqQpRNRCtQQ3JSVby2JK50FoixyK8EwUh6cbu8N4qrJStL77dEb51Ny5uA=="],
 
     "react-dom": ["react-dom@19.2.3", "", { "dependencies": { "scheduler": "^0.27.0" }, "peerDependencies": { "react": "^19.2.3" } }, "sha512-yELu4WmLPw5Mr/lmeEpox5rw3RETacE++JgHqQzd2dg+YbJuat3jH4ingc+WPZhxaoFzdv9y33G+F7Nl5O0GBg=="],
 
