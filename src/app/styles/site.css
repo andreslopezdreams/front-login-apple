@@ -1,0 +1,12 @@
+.home {
+  &__subtitle {
+    color: aliceblue;
+  }
+}
+
+.register {
+  &__container {
+    max-width: 380px;
+    margin: 0 auto;
+  }
+}
